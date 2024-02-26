@@ -4,7 +4,7 @@ This project explores the roles, responsibilities, and certifications within Win
 
 ## Getting Started
 
-To view the project, visit [GitHub Pages](https://username.github.io/repository-name).
+To view the project, visit [GitHub Pages](https://gemuneen.github.io/english-2100-p).
 
 ## License
 
